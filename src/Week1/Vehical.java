@@ -1,6 +1,6 @@
 package Week1;
 
-//QUESTION 4
+// TUTORIAL QUESTION 4
 public abstract class Vehical {
 
     private double maxSpeed;
@@ -27,7 +27,5 @@ public abstract class Vehical {
             accelerate();
 
     }
-
-
 
 }
