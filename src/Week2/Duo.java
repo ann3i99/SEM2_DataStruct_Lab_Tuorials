@@ -1,6 +1,6 @@
 package Week2;
 
-//QUESTION 5,6,
+//TUTORIAL QUESTION 5,6,
 
 public class Duo <A,B> {            //Create a generic class named Duo that has two parameters, A and B
     private A first;                // Declare a variable named first of type A, and the second variable named second of type B.
@@ -19,10 +19,10 @@ public class Duo <A,B> {            //Create a generic class named Duo that has 
         Duo<Double, Double> points = new Duo<>(1.1, 2.2);
     }
 
-    //QUESTION 7
+    //TUTORIAL QUESTION 7
     //public static <T> void allTransportation(ArrayList<? extends T> list1, ArrayList<T> list)
 
-    //QUESTION 8
+    //TUTORIAL QUESTION 8
     //public static void print(ArrayList<?> list) {
     // for(int i=0; i<list.size(); i++)
     // System.out.println(list.get(i));

@@ -1,6 +1,6 @@
 package Week2;
 
-//QUESTION 2
+//TUTORIAL QUESTION 2
 
 import java.util.List;
 
