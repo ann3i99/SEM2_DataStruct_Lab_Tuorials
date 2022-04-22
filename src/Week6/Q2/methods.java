@@ -57,6 +57,7 @@ public class methods<E> {
         else{
             for(int i = 0; i < size; i++){
                 if(e.equals(temp.element)){
+                    temp.prev = temp.next;
                     temp.element = null; // set element = 0 to remove
                     size--;
                     break;
