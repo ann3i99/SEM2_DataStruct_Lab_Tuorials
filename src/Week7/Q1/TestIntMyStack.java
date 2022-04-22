@@ -1,5 +1,6 @@
 package Week7.Q1;
 
+//QUESTION 2
 import java.util.Scanner;
 
 public class TestIntMyStack {
