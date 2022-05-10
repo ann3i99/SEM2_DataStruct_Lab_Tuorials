@@ -110,8 +110,5 @@ public class methods<E> {
         }
     }
 
-
-
-
 }
 
