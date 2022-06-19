@@ -1,8 +1,8 @@
-package Week8.lab.q1;
+package Week8.lab.q2;
 
 import java.util.LinkedList;
 
-public class MyQueue <E> {
+public class MyQueue<E> {
     LinkedList<E> QueueList;
 
     private E e;

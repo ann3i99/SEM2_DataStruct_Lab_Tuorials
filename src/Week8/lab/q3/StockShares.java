@@ -15,7 +15,7 @@ public class StockShares {
         System.out.println("Enter your query (In format 'Buy / sell x shares at $y each ') : ");
         String userInput = s.nextLine();
 
-
+ 
 
 
 

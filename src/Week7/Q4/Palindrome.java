@@ -18,6 +18,7 @@ public class Palindrome {
         System.out.println("Enter a word: ");
         while(true){
             String  wordCheck = s.nextLine();
+
             //check if the word is more than 15 characters or not
             if(wordCheck.length()<=15){
                 //then push to stack
