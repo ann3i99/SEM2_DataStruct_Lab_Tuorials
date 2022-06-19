@@ -2,7 +2,7 @@ package Week6.Q2;
 
 public class ANode<E> {
     E element;
-    ANode<E> next;
+    ANode<E> next, prev;
 
     //default constructor
     public ANode() {}

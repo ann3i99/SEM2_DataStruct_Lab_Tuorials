@@ -5,7 +5,7 @@ package Week6.Q2;
 //case sensitive for change name
 
 import java.util.NoSuchElementException;
-
+//hello this is homu
 
 public class methods<E> {
     private int size = 0;
